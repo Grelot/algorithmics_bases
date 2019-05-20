@@ -13,7 +13,7 @@ You may assume that each input would have exactly one solution, and you may not 
 
 ### One pass
 ![Alt text](https://github.com/Grelot/algorithmics_bases/schema_solutions/two_sum.svg)
-    <img src="https://github.com/Grelot/algorithmics_bases/schema_solutions/two_sum.svg">
+    <img src="https://github.com/Grelot/algorithmics_bases/blob/master/schema_solutions/two_sums.svg">
 
 ### Complexity Analysis
 
