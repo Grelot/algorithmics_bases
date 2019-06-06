@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include "utils.cpp"
 
 using namespace std;
 
@@ -26,14 +27,6 @@ public:
     } 
        
 };
-
-
-void printVec(std::vector<int> const &input)
-{
-    for (int i = 0; i < input.size(); i++) {
-        std::cout << input.at(i) << ' ';
-    }
-}
 
 
 int main() 
